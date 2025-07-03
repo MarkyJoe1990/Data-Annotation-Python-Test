@@ -1,5 +1,5 @@
 # How to run
-Simply open the file using python by writing `py Secret Message Decoder.py` in the console and you will be prompted to provide a google document URL.
+Simply open the file using python by writing `py SecretMessageDecoder.py` in the console and you will be prompted to provide a google document URL.
 
 If the google document URL contains a table with the fields "x-coordinate", "y-coordinate" and "Character" at the top, the table's data will be processed and then it will print out the secret message hidden within the table data.
 
